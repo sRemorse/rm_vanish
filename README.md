@@ -1,6 +1,6 @@
 # rm_vanish
 
-A FiveM script to implement a player invisibility / vanish utility for admins.
+A FiveM resource to implement player invisibility / vanish utility for admins.
 
 ## 📄 Todo
 
