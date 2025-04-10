@@ -1,0 +1,7 @@
+{
+    "error": "An error occurred!",
+    "no-permission": "You don't have permission.",
+    "enter-vanish": "You are vanished to all regular users.",
+    "exit-vanish": "You are no longer vanished.",
+    "vanished-state": "Vanish Enabled."
+}
